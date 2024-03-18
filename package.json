@@ -1,0 +1,30 @@
+{
+  "name": "marinahramtsova-js",
+  "version": "1.0.0",
+  "description": "Marinahramtsova-js is a Node.js module that provides various utilities for quantum computing tasks. It includes functions for generating random quantum state vectors, measuring qubits, and calculating inner products of quantum state vectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marinahramtsova18/marinahramtsova-js"
+  },
+  "dependencies": {
+	  "loginovy": "1.0.0",
+"susanmartin": "1.0.0",
+"lenovpaha": "1.0.0",
+"morozz-string": "1.0.0",
+"carolgonzalez": "1.0.0",
+"string-filatovmark": "1.0.0",
+"jakea": "1.0.0",
+"edwardevans": "1.0.0",
+    "mathjs": "^10.7.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinahramtsova18/marinahramtsova-js/issues"
+  },
+  "homepage": "https://github.com/marinahramtsova18/marinahramtsova-js#readme"
+}
